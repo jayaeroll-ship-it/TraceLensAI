@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+.pytest_cache/
+*.sqlite3
+.env
+.env.*
+!.env.example
+*.zip
+*.log
+.test-temp*/
+test-results/
+.preview-processes.json
